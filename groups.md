@@ -12,3 +12,7 @@ Vi må ha en måte å holde oversikt over gruppene på. Derfor skal alle bidra p
 - Ingrid
 - Per
 - Sander
+
+## Gruppe 12
+-Eila
+-Jenny
