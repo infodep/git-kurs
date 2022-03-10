@@ -7,8 +7,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   issues:
     types: [ opened ]
-  pull_request:
-    branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,5 +30,4 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           # Comment to post on an individual's first issue
           issue-message: Hurra! 🎉 Du har nettopp opprettet ditt første issue. Bra jobba, og lykke til videre.
-          # Comment to post on an individual's first pull request
-          pr-message: Jippi! 👏 Takk for at du bidrar!
+
