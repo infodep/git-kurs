@@ -12,3 +12,5 @@ Vi må ha en måte å holde oversikt over gruppene på. Derfor skal alle bidra p
 - Ingrid
 - Per
 - Sander
+- Ludvig Lous (should have been president of infodep)
+- Vetle 
