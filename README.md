@@ -22,9 +22,9 @@ He described the tool as "the stupid content tracker" and the name as (depending
 Git er et viktig verktøy for alle som skriver kode. Infodep bruker Git aktivt i utviklingen av timini.no. Vi byttet nylig fra Bitbucket og bruker nå GitHub som vertstjeneste for programmeringsprosessen vår.   
 Sjekk ut [Infodep på GitHub](https://github.com/infodep).
 
-I arbeidslivet vil man definitivt møte på git når man jobber med prosjekter som innvolverer programmering. Viljar kommer til å snakke mer om hvordan han har brukt Git i arbeidssammenheng.
+Informasjonen under er fra et kurs gitt i git en gang i fordums tid. Man kan likeledes gjøre oppgavene selv den dag i dag hvis du vil lære deg versjonskontroll i git! Disse oppgavene finner man i "Issues"-tab-en i GitHub. 
 
-For en potensiell arbeidsgiver vil det være positivt å kunne vise til koderelaterte aktiviteter og prosjekter. For eksempel kan en GitHub-side med egne repos og høy aktivitet se bra ut på CV-en.
+I arbeidslivet vil man definitivt møte på git når man jobber med prosjekter som innvolverer programmering. For en potensiell arbeidsgiver vil det være positivt å kunne vise til koderelaterte aktiviteter og prosjekter. For eksempel kan en GitHub-side med egne repos og høy aktivitet se bra ut på CV-en.
 
 Bli med da vel!
 
