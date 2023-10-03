@@ -28,6 +28,18 @@ I arbeidslivet vil man definitivt møte på git når man jobber med prosjekter s
 
 Bli med da vel!
 
+### ✅ Oppgaver
+
+Når du har kommet så langt som til denne teksten er du sikkert klar for å sette i gang kurset! Gitt at du har lastet ned git på datamaskinen din kan du sette i gang ved å 
+ - a) laste ned denne mappen lokalt til din pc ved hjelp av kommandoen 
+    ```sh
+    git clone https://github.com/infodep/git-kurs 
+    ```
+ - b) sjekke ut "Issues"-tab-en i GitHub for å se hvilke oppgaver som finnes! 
+
+
+### Lykke til! 
+
 ### ⏱️ Program
 
 12:15 Velkommen.
