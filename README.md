@@ -4,6 +4,8 @@ Vil du ha en forsmak på livet som IT-konsulent? Få tilgang på ubegrenset kok 
 
 Infodep inviterer til kurs i versjonskontrollsystemet Git!
 
+En ufullstendig liste over git-kommandoer finner du [her](./git-cheatsheet.md)
+
 ### ❓ Hva er Git?
 
 Git er et raskt og kraftfullt verktøy for å spore endringer på filer i en mappe/filsystem (repository). 
