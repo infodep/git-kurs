@@ -32,34 +32,21 @@ Bli med da vel!
 
 ### ✅ Oppgaver
 
-Når du har kommet så langt som til denne teksten er du sikkert klar for å sette i gang kurset! Gitt at du har lastet ned git på datamaskinen din kan du sette i gang ved å 
- - a) laste ned denne mappen lokalt til din pc ved hjelp av kommandoen 
-    ```sh
-    git clone https://github.com/infodep/git-kurs 
-    ```
- - b) sjekke ut "Issues"-tab-en i GitHub for å se hvilke oppgaver som finnes! 
+Vi har publisert noen oppgaver på [git-kurs.timini.no](https://git-kurs.timini.no). 
+
+Du kommer til å måtte finne informasjon fra dette repoet. Gitt at du har lastet ned git på datamaskinen din kan du sette i gang ved å enten laste ned denne mappen lokalt til din pc ved hjelp av kommandoen:
+```sh
+git clone https://github.com/infodep/git-kurs 
+```
+eller åpne den i et GitHub Codespace i nettleseren. Da trykker du bare på punktum-knappen (<kbd>.</kbd>) på tastaturet ditt.
 
 
 ### Lykke til! 
 
-### ⏱️ Program
+<details>
+<summary>Vil du ha svaret på en av oppgavene?</summary>
+<br>
 
-12:15 Velkommen.
-12:20 Innføring i Git v/Viljar.
-12:45 Demonstrasjon/praktisk gjennomgang.
-13:00 Presentasjon av oppgaver
-13:15 Git-konkurranse, kombinert med hjelp til installasjon osv.
-13:45 Kåring av vinner. Oppsummering.
+Gå til [git-kurs.timini.no/submit](https://git-kurs.timini.no/submit) og lim inn dette flagget: `GIT_KURS_6ymm1ntn`
 
-### 🧑‍💻 Før kurset
-
-Selv om det er mulig å dukke opp på kurset uten forberedelser anbefaler vi å gjøre følgende før kurset:
-- Installere VS Code
-- Installere Git
-- Opprette GitHub-profil
-
-Er du ivrig kan du også:
-- Installere GitGraph (VS Code extension)
-- Legge til profilbilde på GitHub-profilen din
-- Besøke Infodep sin GitHub-side
-- Klone Git-kurs repoet
+</details>
