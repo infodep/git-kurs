@@ -1,12 +1,9 @@
+import hashlib
 """
-Test file, please ignore
+Run this file to print the flag.
 """
-
-def main(tom_liste = []):
-    assert tom_liste == []
-    tom_liste.append(10)
-    assert tom_liste[0] == 10
+def main():
+    print(f"GIT_KURS_{hashlib.sha256(b'Git er ganske kult!').hexdigest()[:8]}")
 
 if __name__ == "__main__":
     main()
-    main() # hvorfor krasjer programmet her? 
