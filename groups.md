@@ -12,3 +12,6 @@ Vi må ha en måte å holde oversikt over gruppene på. Derfor skal alle bidra p
 - Ingrid
 - Per
 - Sander
+
+## Just Another Flag
+GIT_KURS_09635pej
