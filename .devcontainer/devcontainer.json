@@ -1,0 +1,15 @@
+{
+  "name": "Basic Python",
+  "build": { "dockerfile": "Dockerfile" },
+  "remoteUser": "vscode",
+  
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.pythonPath": "python",
+        "python.defaultInterpreterPath": "python"
+    },
+      "extensions": ["ms-python.python", "mhutchie.git-graph"]
+    }
+  }
+}
